@@ -1,0 +1,15 @@
+
+   99  git init
+  100  git add .
+  101  git status
+  102  git commit -m "01 Eduardo Medrano"
+  103  git remote add origin https://github.com/edosmedia/checkpoint-clase8-eduardomedrano.git
+  104  git push origin master
+  105  git branch feature
+  106  git checkout
+  107  git checkout feature
+  108  git add .
+  109  git commit -m "add branch feature"
+  110  git push origin feature
+  111  git checkout master
+  112  history
